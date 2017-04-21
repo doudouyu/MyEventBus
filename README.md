@@ -1,0 +1,2 @@
+# EventBus练习demo
+EventBus在Activity和Activity之间的使用和在fragment和activity之间的使用
